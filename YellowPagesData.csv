@@ -1,0 +1,175 @@
+,RestroName,FullAddress,Street,Locality,Region,Zipcode,Phone,Categories
+0,Food From Galillee,"6710 Snider PlzDallas, TX 75205",6710 Snider Plz,"Dallas, ",TX,75205,(214)-750-0330,"Middle Eastern Restaurants
+"
+1,Desta Ethiopian Restaurant,"12101 Greenville Ave 105Dallas, TX 75243",12101 Greenville Ave 105,"Dallas, ",TX,75243,(214)-575-9004,"Middle Eastern RestaurantsRestaurants
+"
+2,Qariah Lebanese Restaurant,"1811 Greenville AveDallas, TX 75206",1811 Greenville Ave,"Dallas, ",TX,75206,(214)-826-4444,"Middle Eastern RestaurantsCaterers
+"
+3,Fadi Mediterranean Grill,"3001 Knox St Ste 400Dallas, TX 75205",3001 Knox St Ste 400,"Dallas, ",TX,75205,(214)-528-1800,"Mediterranean Restaurants
+"
+4,Sahara Restaurant,"5441 Alpha RdDallas, TX 75240",5441 Alpha Rd,"Dallas, ",TX,75240,(972)-788-1898,"Mediterranean Restaurants
+"
+5,Kalachandji's Palace & Restaurant,"5430 Gurley AveDallas, TX 75223",5430 Gurley Ave,"Dallas, ",TX,75223,(214)-821-1048,"Vegetarian RestaurantsCaterers
+"
+6,Taj Mahal Indian Restaurant & Bar,"10455 North Central Expway #120Dallas, TX 75231",10455 North Central Expway #120,"Dallas, ",TX,75231,(214)-692-0535,"Indian Restaurants
+"
+7,The Saffron House,"5100 Belt Line RdDallas, TX 75254",5100 Belt Line Rd,"Dallas, ",TX,75254,(972)-239-1800,"Fast Food Restaurants
+"
+8,India Palace Restaurant & Bar,"12817 Preston RdDallas, TX 75230",12817 Preston Rd,"Dallas, ",TX,75230,(972)-392-0190,"Indian RestaurantsCaterers
+"
+9,India Chaat Cafe,"18101 Preston RdDallas, TX 75252",18101 Preston Rd,"Dallas, ",TX,75252,(972)-381-0003,"Indian Restaurants
+"
+10,Roti Grill,"4438 McKinney AveDallas, TX 75205",4438 McKinney Ave,"Dallas, ",TX,75205,(214)-521-3655,"Indian Restaurants
+"
+11,Vindu Indian Cuisine,"4701 Frankford RdDallas, TX 75287",4701 Frankford Rd,"Dallas, ",TX,75287,(972)-931-5999,"Indian Restaurants
+"
+12,Red Room,"4950 Belt Line Rd Ste 180Dallas, TX 75254",4950 Belt Line Rd Ste 180,"Dallas, ",TX,75254,(972)-661-8111,"Indian RestaurantsBarsTaverns
+"
+13,Pera Turkish Kitchen,"17479 Preston RdDallas, TX 75252",17479 Preston Rd,"Dallas, ",TX,75252,(972)-267-4444,"Mediterranean RestaurantsCaterers
+"
+14,Afghan Grill,"19177 Preston Rd Ste 180Dallas, TX 75252",19177 Preston Rd Ste 180,"Dallas, ",TX,75252,(214)-666-6669,"Take Out Restaurants
+"
+15,Natalie's Kitchen Kosher Food,"7114 Campbell RdDallas, TX 75248",7114 Campbell Rd,"Dallas, ",TX,75248,(972)-380-1010,"Kosher RestaurantsPizza
+"
+16,Aatish Grill Mediterranean Bistro,"3427 Trinity Mills Rd Ste 900Dallas, TX 75287",3427 Trinity Mills Rd Ste 900,"Dallas, ",TX,75287,(972)-662-0801,"Greek Restaurants
+"
+17,La Libela Restaurant,"9191 Forest Ln Ste 2Dallas, TX 75243",9191 Forest Ln Ste 2,"Dallas, ",TX,75243,(972)-792-8442,"Family Style Restaurants
+"
+18,IBEX Ethiopian Cuisine and Bar,"12255 Greenville AveDallas, TX 75243",12255 Greenville Ave,"Dallas, ",TX,75243,(972)-234-4239,"African Restaurants
+"
+19,Roma Palace,"4550 W Buckingham RdGarland, TX 75042",4550 W Buckingham Rd,"Garland, ",TX,75042,(972)-235-7662,"Middle Eastern Restaurants
+"
+20,Hot & Spicy Restaurant,"535 W Airport FwyIrving, TX 75062",535 W Airport Fwy,"Irving, ",TX,75062,(972)-573-0355,"Middle Eastern RestaurantsCaterers
+"
+21,Prince Lebanese Grill,"502 W Randol Mill RdArlington, TX 76011",502 W Randol Mill Rd,"Arlington, ",TX,76011,(817)-469-1811,"Middle Eastern Restaurants
+"
+22,Falafel & More,"3100 Independence Pkwy Ste 102APlano, TX 75075",3100 Independence Pkwy Ste 102A,"Plano, ",TX,75075,(972)-519-9001,"Middle Eastern Restaurants
+"
+23,Al-Haaj Bundoo Khan's Restaurant,"2540 Old Denton RdCarrollton, TX 75006",2540 Old Denton Rd,"Carrollton, ",TX,75006,(972)-512-0837,"Middle Eastern Restaurants
+"
+24,Olive Restaurant,"580 W Arapaho RdRichardson, TX 75080",580 W Arapaho Rd,"Richardson, ",TX,75080,(972)-480-8200,"Middle Eastern RestaurantsRestaurants
+"
+25,Jose Eber,"6101 Chapel Hill Blvd # 103Plano, TX 75093",6101 Chapel Hill Blvd # 103,"Plano, ",TX,75093,(469)-467-4880,"Middle Eastern RestaurantsRestaurants
+"
+26,Meat Matter Al Thuraya Halal,"4152 W Spring Creek Pkwy suite 108Plano, TX 75024",4152 W Spring Creek Pkwy suite 108,"Plano, ",TX,75024,(972)-599-0786,"Middle Eastern RestaurantsRestaurants
+"
+27,Nineteen,"2600 Champions DrRockwall, TX 75087",2600 Champions Dr,"Rockwall, ",TX,75087,(972)-771-0301,"Middle Eastern RestaurantsRestaurants
+"
+28,Andalous Mediterranean Grill,"6450 N Macarthur Blvd Suit#100Irving, TX 75039",6450 N Macarthur Blvd Suit#100,"Irving, ",TX,75039,(972)-401-8900,"Greek Restaurants
+"
+29,Afrah Pastries,"314 E Main StRichardson, TX 75081",314 E Main St,"Richardson, ",TX,75081,(972)-234-9898,"Mediterranean RestaurantsBakeries
+"
+30,Kebab-N-Kurry,"401 N Central Expy Ste 300Richardson, TX 75080",401 N Central Expy Ste 300,"Richardson, ",TX,75080,(972)-231-5556,"Indian RestaurantsCaterers
+"
+31,Flavors Indian Restaurant,"4101 Belt Line RdAddison, TX 75001",4101 Belt Line Rd,"Addison, ",TX,75001,(972)-789-9206,"Indian RestaurantsAsian Restaurants
+"
+32,Pasand Indian Cuisine,"2600 N Belt Line RdIrving, TX 75062",2600 N Belt Line Rd,"Irving, ",TX,75062,(972)-594-0693,"Indian RestaurantsAsian Restaurants
+"
+33,Madras Pavilion,"101 S Coit Rd Ste 359Richardson, TX 75080",101 S Coit Rd Ste 359,"Richardson, ",TX,75080,(972)-671-3672,"Indian RestaurantsCaterers
+"
+34,Underground Indian Cuisine,"220 Las Colinas Blvd E # 264Irving, TX 75039",220 Las Colinas Blvd E # 264,"Irving, ",TX,75039,(469)-567-3675,"Indian RestaurantsCaterers
+"
+35,paradise Indian Bistro,"7300 N Macarthur Blvd Ste 130Irving, TX 75063",7300 N Macarthur Blvd Ste 130,"Irving, ",TX,75063,(214)-574-8500,"Indian Restaurants
+"
+36,Chameli Restaurant,"201 S Greenville AveRichardson, TX 75081",201 S Greenville Ave,"Richardson, ",TX,75081,(972)-638-9898,"Family Style RestaurantsCaterers
+"
+37,India Garden,"433 W Interstate 30Garland, TX 75043",433 W Interstate 30,"Garland, ",TX,75043,(972)-240-4403,"Indian Restaurants
+"
+38,Rangoli,"2801 N Macarthur BlvdIrving, TX 75062",2801 N Macarthur Blvd,"Irving, ",TX,75062,(972)-594-8100,"Indian Restaurants
+"
+39,Temptation Indian & Himalayan,"4070 N Belt Line RdIrving, TX 75038",4070 N Belt Line Rd,"Irving, ",TX,75038,(214)-492-1229,"Indian RestaurantsAsian Restaurants
+"
+40,Amruth Indian Kitchen,"1049 W Rochelle RdIrving, TX 75062",1049 W Rochelle Rd,"Irving, ",TX,75062,(972)-252-7470,"Indian RestaurantsAsian Restaurants
+"
+41,Aslan Biryani House Delhi Indian Kitchen,"1625 N Story RdIrving, TX 75061",1625 N Story Rd,"Irving, ",TX,75061,(972)-870-0001,"Indian Restaurants
+"
+42,Bombay Dining Cuisine of India,"1735 N Story Rd Ste 172Irving, TX 75061",1735 N Story Rd Ste 172,"Irving, ",TX,75061,(972)-790-2300,"Indian Restaurants
+"
+43,Silver Spoon Restaurant,"218 E Spring Valley RdRichardson, TX 75081",218 E Spring Valley Rd,"Richardson, ",TX,75081,(972)-907-0090,"Family Style Restaurants
+"
+44,Super Asian Grocery & Catering,"1830 Range Dr # 105Mesquite, TX 75149",1830 Range Dr # 105,"Mesquite, ",TX,75149,(972)-289-4333,"CaterersTake Out Restaurants
+"
+45,Sarigama,"5427 N Macarthur BlvdIrving, TX 75038",5427 N Macarthur Blvd,"Irving, ",TX,75038,(972)-853-8803,"Indian Restaurants
+"
+46,Mirch Masala,"4550 W Buckingham RdGarland, TX 75042",4550 W Buckingham Rd,"Garland, ",TX,75042,(972)-235-7662,"Indian Restaurants
+"
+47,Everest Indian Restaurant,"3310 W Rochelle RdIrving, TX 75062",3310 W Rochelle Rd,"Irving, ",TX,75062,(972)-255-1717,"Indian RestaurantsAsian Restaurants
+"
+48,Sultan Cafe,"201 S Greenville Ave #211Richardson, TX 75081",201 S Greenville Ave #211,"Richardson, ",TX,75081,(972)-235-7900,"Mediterranean Restaurants
+"
+49,Dea As Afgan N Persian,"100 S Central ExpyRichardson, TX 75080",100 S Central Expy,"Richardson, ",TX,75080,(972)-234-4383,"Mediterranean Restaurants
+"
+50,Paradise Biriyani Pointe,"7300 N Macarthur Blvd Irving, Tx 75063Irving, TX 75063","7300 N Macarthur Blvd Irving, Tx 75063","Irving, ",TX,75063,(214)-574-8500,"Indian Restaurants
+"
+51,Zeytin Mediterranean Grill,"114 E John Carpenter FwyIrving, TX 75062",114 E John Carpenter Fwy,"Irving, ",TX,75062,(972)-887-2000,"Mediterranean Restaurants
+"
+52,Zyka Indian Restaurant,"100 S Central Expy Ste 21Richardson, TX 75080",100 S Central Expy Ste 21,"Richardson, ",TX,75080,(972)-238-7777,"Indian Restaurants
+"
+53,Gojo Ethiopian Restaurant,"2189 Buckingham RdRichardson, TX 75081",2189 Buckingham Rd,"Richardson, ",TX,75081,(972)-744-9859,"African Restaurants
+"
+54,Queen of Sheba Restaurant,"14875 Inwood RdAddison, TX 75001",14875 Inwood Rd,"Addison, ",TX,75001,(972)-239-3290,"African Restaurants
+"
+55,Kabob Land,"6205 Coit Rd Ste 348Plano, TX 75024",6205 Coit Rd Ste 348,"Plano, ",TX,75024,(972)-985-4600,"Mediterranean Restaurants
+"
+56,Black Pepper,"3829 W Spring Creek Pkwy, Suite 100Plano, TX 75023","3829 W Spring Creek Pkwy, Suite 100","Plano, ",TX,75023,(972)-398-9700,"Indian RestaurantsCaterers
+"
+57,Maharaja Indian Restaurant,"4152 W Spring Creek PkwyPlano, TX 75024",4152 W Spring Creek Pkwy,"Plano, ",TX,75024,(972)-867-6002,"Indian Restaurants
+"
+58,Mumtaz Indian Restaurant,"301 W Parker RdPlano, TX 75023",301 W Parker Rd,"Plano, ",TX,75023,(972)-398-7934,"Indian Restaurants
+"
+59,Tandoor Indian Restaurant,"532 Fielder North PlzArlington, TX 76012",532 Fielder North Plz,"Arlington, ",TX,76012,(817)-261-6604,"Indian RestaurantsCaterers
+"
+60,Mumtaz Indian Restaurant,"216 W Campbell RdRichardson, TX 75080",216 W Campbell Rd,"Richardson, ",TX,75080,(214)-575-2100,"Indian RestaurantsItalian Restaurants
+"
+61,Our Place Indian Cuisine,"8150 N Macarthur Blvd Ste 150Irving, TX 75063",8150 N Macarthur Blvd Ste 150,"Irving, ",TX,75063,(214)-574-7117,"Indian Restaurants
+"
+62,India Star,"703 W Park Row DrArlington, TX 76013",703 W Park Row Dr,"Arlington, ",TX,76013,(817)-265-9020,"Indian RestaurantsTake Out Restaurants
+"
+63,Ruchi Palace Indian Cuisine,"3128 E Trinity Mills RdCarrollton, TX 75006",3128 E Trinity Mills Rd,"Carrollton, ",TX,75006,(972)-818-9588,"Indian RestaurantsAsian Restaurants
+"
+64,Roti Grill,"6509 W Park Blvd # 420Plano, TX 75093",6509 W Park Blvd # 420,"Plano, ",TX,75093,(972)-403-7600,"Take Out RestaurantsIndian Restaurants
+"
+65,India Grill,"4000 Five Points Dr Ste 109Arlington, TX 76018",4000 Five Points Dr Ste 109,"Arlington, ",TX,76018,(817)-468-9150,"Indian Restaurants
+"
+66,Eat Street Kabab Factory,"2540 Old Denton RdCarrollton, TX 75006",2540 Old Denton Rd,"Carrollton, ",TX,75006,(972)-446-6000,"Indian RestaurantsCaterers
+"
+67,Hilltop Indian Cuisine,"8350 N Macarthur Blvd Ste 190Irving, TX 75063",8350 N Macarthur Blvd Ste 190,"Irving, ",TX,75063,(469)-420-9181,"Indian Restaurants
+"
+68,Mayuri Indian Restaurant,"1102 W Lyndon B Johnson FwyIrving, TX 75063",1102 W Lyndon B Johnson Fwy,"Irving, ",TX,75063,(972)-910-8788,"Indian RestaurantsCaterers
+"
+69,Gloria's Indian Kitchen,"1546 Rowlett RdGarland, TX 75043",1546 Rowlett Rd,"Garland, ",TX,75043,(214)-703-0858,"Indian RestaurantsTake Out Restaurants
+"
+70,Gyroasis Deli & Grill,"3550 Regent Blvd Ste 130Irving, TX 75063",3550 Regent Blvd Ste 130,"Irving, ",TX,75063,(972)-893-1746,"Greek RestaurantsCaterers
+"
+71,Indian Cafe,"3601 Regent Blvd Ste 150Irving, TX 75063",3601 Regent Blvd Ste 150,"Irving, ",TX,75063,(972)-929-6400,"Indian RestaurantsAsian Restaurants
+"
+72,Indian Grill & Curry,"1501 Preston RdPlano, TX 75093",1501 Preston Rd,"Plano, ",TX,75093,(972)-733-1588,"Restaurant Delivery Service
+"
+73,Kerala Kitchen,"3600 Huffines BlvdCarrollton, TX 75010",3600 Huffines Blvd,"Carrollton, ",TX,75010,(972)-394-8270,"Indian RestaurantsTake Out Restaurants
+"
+74,Bawarchi Indian Cuisine,"1404 W Hebron PkwyCarrollton, TX 75010",1404 W Hebron Pkwy,"Carrollton, ",TX,75010,(972)-394-2777,"Indian Restaurants
+"
+75,Kasra,"525 W Arapaho RdRichardson, TX 75080",525 W Arapaho Rd,"Richardson, ",TX,75080,(972)-235-4007,"Mediterranean RestaurantsCaterers
+"
+76,Shandiz Mediterranean Grill,"4013 W Parker RdPlano, TX 75093",4013 W Parker Rd,"Plano, ",TX,75093,(972)-943-8885,"Mediterranean Restaurants
+"
+77,Frisco Mediterranean Food Inc,"2787 Preston RdFrisco, TX 75034",2787 Preston Rd,"Frisco, ",TX,75034,(972)-712-1600,"Greek Restaurants
+"
+78,Cafe Istanbul,"7300 Lone Star Dr, Suite 160Plano, TX 75024","7300 Lone Star Dr, Suite 160","Plano, ",TX,75024,(972)-398-2020,"Mediterranean Restaurants
+"
+79,Basera Indian Cuisine,"8232 Preston Rd., Suite # 125Plano, TX 75024","8232 Preston Rd., Suite # 125","Plano, ",TX,75024,(972)-666-8266,"Indian Restaurants
+"
+80,Indian Flavours,"6909 Coit RdPlano, TX 75024",6909 Coit Rd,"Plano, ",TX,75024,(972)-618-4900,"Indian RestaurantsCaterers
+"
+81,Bawarchi Biryani Point,"8201 Ohio DrPlano, TX 75024",8201 Ohio Dr,"Plano, ",TX,75024,(972)-234-9009,"Indian Restaurants
+"
+82,Taste Of India,"2140 E Southlake Blvd Ste BSouthlake, TX 76092",2140 E Southlake Blvd Ste B,"Southlake, ",TX,76092,(817)-421-0305,"Indian Restaurants
+"
+83,Ista Indian Cuisine,"2140 E Southlake BlvdSouthlake, TX 76092",2140 E Southlake Blvd,"Southlake, ",TX,76092,(817)-421-0305,"Indian Restaurants
+"
+84,Ista Indian Cuisine,"2221 Cross Timbers RdFlower Mound, TX 75028",2221 Cross Timbers Rd,"Flower Mound, ",TX,75028,(972)-355-4488,"Indian Restaurants
+"
+85,Mama Pita,"5800 Legacy Dr Ste C6Plano, TX 75024",5800 Legacy Dr Ste C6,"Plano, ",TX,75024,(972)-403-1215,"Mediterranean RestaurantsSandwich Shops
+"
+86,India Cafe,"6700 Denton Hwy Ste AWatauga, TX 76148",6700 Denton Hwy Ste A,"Watauga, ",TX,76148,(817)-514-0787,"Indian Restaurants
+"
