@@ -7,6 +7,7 @@ given the iputs it fetches the data yellow pages and saves in a csv fils as give
 What do you want to find: 
 
 Shawarma
+
 Please enter your current location, either zipcode or City, State. For Example 06105 or Hartford, CT: 
 
 Dallas, TX
